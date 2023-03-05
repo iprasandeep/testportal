@@ -1,6 +1,6 @@
 import {useEffect, useState} from 'react'
 // import API from './axios';
-import './Page.css';
+import './questions.css';
 import axios from 'axios';
 import {MathJaxContext, MathJax } from "better-react-mathjax";
 

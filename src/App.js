@@ -1,10 +1,10 @@
 import React from 'react'
-import QuestionOne from './Questions/Question';
+import Questions from './Questions/Question';
 
 const App = () => {
   return (
     <>
-      <QuestionOne/>
+      <Questions/>
     </>
   )
 }
